@@ -7,6 +7,8 @@
 Милая игра-кликер эволюция с 3D-графикой, как в «Майнкрафте». 
 Кликай по питомцу, накапливай монетки, прокачивай клики.
 
+Игра - https://yandex.ru/games/app/357161
+
 ## Скрины
 ![Image Sequence_001_0000](https://github.com/user-attachments/assets/59b84b51-c7e8-42d1-b2ae-1f047ca2ebd3)
 ![Image Sequence_002_0128](https://github.com/user-attachments/assets/7e44b961-cc8e-47ec-8965-d3530a600824)
